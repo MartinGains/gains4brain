@@ -1,0 +1,176 @@
+body {
+    background-color: #d2d3e2;
+    text-align: center;
+}
+
+.top {
+    padding-bottom: 40px;
+
+
+    }   
+
+
+
+hr {
+    height: 2px;
+    width: 30%;
+    border: none;
+    background-color: #ddd;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+    margin: 0 auto;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 1000%;
+    font-family: Consolas,monaco,monospace;
+    font-weight: bolder, large;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+    padding-top: 5%;
+
+}
+
+
+h2 {
+    font-family: Consolas,monaco,monospace;
+    font-variant: small-caps;
+    font-size: large;
+    color: #66BFBF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+    padding-top: 40px;
+}
+
+h3 {
+    font-family: Consolas,monaco,monospace;
+    font-size: 26px;
+    color: #66BFBF;
+}
+
+.brain {
+    width: 50%;
+    height: 40%;
+
+
+
+}
+
+.brain2{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    
+}
+.intro {
+    padding-top: 30px;
+    position: relative;
+    margin-left:auto;
+    text-align: center;
+    padding-bottom: 33px;
+    
+}
+
+.lifting {
+    padding-top: 30px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14%;
+    height: 17%;
+}
+
+.artikkel {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.learn{
+ 
+    padding-top: 30px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14%;
+    height: 17%;
+}
+
+.p1 {
+    font-family: Consolas,monaco,monospace;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.p2 {
+    font-family: Consolas,monaco,monospace;
+    text-align: center;
+    font-size: 24px;
+}
+
+
+
+
+.mandag  {
+    text-align: center;
+    font-family: Consolas,monaco,monospace;
+}
+
+
+.tirsdag  {
+    text-align: center;
+    font-family: Consolas,monaco,monospace;
+}
+
+
+.torsdag  {
+    text-align: center;
+    font-family: Consolas,monaco,monospace;
+}
+
+
+.fredag  {
+    text-align: center;
+    font-family: Consolas,monaco,monospace;
+}
+
+.bottom-table {
+    text-align: center;
+    padding: 10%;
+}
+button {
+    background-color: #66BFBF; 
+    color: white; 
+    width: 30%;
+    height: 10%; 
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer; 
+    font-size: 180%;
+    font-family: Consolas,monaco,monospace;
+  }
+  
+  button:hover {
+    background-color: #dcaed4;
+  }
+  
+.button {
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+.footer {
+    font-size: 20px;
+    text-align: center;
+    background-color: #d2d3e2;
+}
